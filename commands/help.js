@@ -9,13 +9,13 @@ $thumbnail[$userAvatar[$authorID]]
 **⚙ Moderation Command List**
 
 \`$getServerVar[prefix]kick\` - Kicked Someone from server.
-\`$getServerVar[prefix]ban\` - Banned User server.
-\`$getServerVar[prefix]warn\` - Warning User.
-\`$getServerVar[prefix]checkwarn\` - Check amount of warn one of the users.
-\`$getServerVar[prefix]removewarn\` - Remove warn one of the users.
-\`$getServerVar[prefix]poll\` - Polling.
-\`$getServerVar[prefix]clear\` - Delete Message.
-\`$getServerVar[prefix]setprefix\` - Set Custom Prefix.]
+\`$getServerVar[prefix]ban\` - Bans a user from the server.
+\`$getServerVar[prefix]warn\` - Warns a User.
+\`$getServerVar[prefix]checkwarn\` - Check the amount of warns that a user has.
+\`$getServerVar[prefix]removewarn\` - Remove a warn from one of the users.
+\`$getServerVar[prefix]poll\` - Create a poll.
+\`$getServerVar[prefix]clear\` - Delete multiple Messages.
+\`$getServerVar[prefix]setprefix\` - Set Custom Prefix In the server.]
 
 $color[RANDOM]
 $footer[Dosk1-Bot | Subscribe To OscarDosk1]
